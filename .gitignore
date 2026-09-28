@@ -1,5 +1,6 @@
 # Environments
 .env
+!.env.example
 .venv/
 venv/
 env/
@@ -9,6 +10,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Ruff
+.ruff_cache/
 
 # IDEs
 .idea/
