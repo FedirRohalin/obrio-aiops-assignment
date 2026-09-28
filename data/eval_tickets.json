@@ -1,0 +1,37 @@
+[
+  {
+    "ticket_id": "EV-001",
+    "user_text": "i want to cancel my subsciption right now please. i dont use the app anymore and dont want to be billed.",
+    "expected_article_id": "KB-001",
+    "expected_needs_human": false,
+    "notes": "User is asking for standard subscription cancellation instructions."
+  },
+  {
+    "ticket_id": "EV-002",
+    "user_text": "wtf u guys charged me $40 for a yearly plan but i deleted the app yesterday before the trial ended!! give me my money back im so mad",
+    "expected_article_id": "KB-002",
+    "expected_needs_human": false,
+    "notes": "User uninstalled without canceling and is demanding a refund for the trial charge."
+  },
+  {
+    "ticket_id": "EV-003",
+    "user_text": "my natal chart page just keeps spinning and spinning. i already paid but it wont load anything just a blank white screen help",
+    "expected_article_id": "KB-004",
+    "expected_needs_human": false,
+    "notes": "User is experiencing a technical freeze on the natal chart screen requiring troubleshooting."
+  },
+  {
+    "ticket_id": "EV-004",
+    "user_text": "the tarot reader Luna was incredibly rude to me. she kept cutting me off and told me my relationship was doomed just to sell me a cleansing ritual. unacceptable.",
+    "expected_article_id": "KB-006",
+    "expected_needs_human": true,
+    "notes": "User is complaining about an expert's conduct, requiring human review and escalation."
+  },
+  {
+    "ticket_id": "EV-005",
+    "user_text": "Привіт, як я можу дізнатися коли буде реліз гри сталкер 2? мені дуже потрібно",
+    "expected_article_id": null,
+    "expected_needs_human": true,
+    "notes": "User is speaking Ukrainian and asking about an unrelated video game release."
+  }
+]

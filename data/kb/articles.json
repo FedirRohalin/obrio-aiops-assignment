@@ -1,0 +1,79 @@
+[
+  {
+    "id": "KB-001",
+    "title": "How to Cancel Your Nebula Subscription",
+    "tags": [
+      "cancel",
+      "subscription",
+      "app store",
+      "google play"
+    ],
+    "text": "To cancel your Nebula premium subscription, you must do so through the platform where you originally purchased it. If you subscribed via the App Store, open your iPhone Settings, tap your Apple ID, select Subscriptions, find Nebula, and tap Cancel. For Google Play, open the Play Store, tap your profile icon, select Payments & subscriptions, then Subscriptions, and cancel Nebula. For web purchases, log in to our website, navigate to Settings > Subscription, and click Cancel Plan. Cancellations must be made 24 hours before renewal."
+  },
+  {
+    "id": "KB-002",
+    "title": "Nebula Refund Policy",
+    "tags": [
+      "refund",
+      "billing",
+      "money back",
+      "trial"
+    ],
+    "text": "Users are generally eligible for a refund if they request it within 14 days of the initial purchase or trial charge, provided they have not utilized any paid live consultations. Refund requests for App Store purchases must be processed directly through Apple Support. Google Play and web purchases can be refunded by our internal billing team. Note that trial charges are considered valid unless the trial is canceled beforehand. Only tier-2 support agents and billing managers have the authorization to approve and issue direct refunds."
+  },
+  {
+    "id": "KB-003",
+    "title": "Trial Auto-Renewal and Notifications",
+    "tags": [
+      "trial",
+      "renewal",
+      "charge",
+      "notification"
+    ],
+    "text": "All Nebula free trials automatically convert to paid subscriptions at the end of the promotional period unless canceled at least 24 hours in advance. We send an automated push notification and an email reminder 48 hours prior to the trial expiration to help you manage your subscription status. If you uninstall the app without explicitly canceling the trial through your device settings or our website, the subscription remains active and you will be charged the standard renewal rate."
+  },
+  {
+    "id": "KB-004",
+    "title": "Troubleshooting Natal Chart and Horoscope Loading Issues",
+    "tags": [
+      "bug",
+      "freeze",
+      "loading",
+      "natal chart"
+    ],
+    "text": "If your daily horoscope or natal chart screen is freezing or failing to load, please try the following troubleshooting steps. First, force close the Nebula app completely and reopen it. If the issue persists, clear the app cache in your device settings or offload the app on iOS. Ensure you are running the latest version of the app from the App Store or Google Play. Additionally, verify that your device has a stable internet connection. If nothing works, please reinstall the application."
+  },
+  {
+    "id": "KB-005",
+    "title": "Changing Payment Methods and Duplicate Charges",
+    "tags": [
+      "payment",
+      "duplicate",
+      "billing",
+      "credit card"
+    ],
+    "text": "To update your payment method for web subscriptions, go to Settings > Payment Methods and enter your new credit card details. For mobile subscriptions, you must update your wallet directly in the App Store or Google Play. If you notice a duplicate charge on your bank statement, it is often a temporary authorization hold that will drop within 3 to 5 business days. If the duplicate charge posts permanently, contact support with both transaction IDs for an immediate reversal."
+  },
+  {
+    "id": "KB-006",
+    "title": "Filing a Complaint About an Expert Consultation",
+    "tags": [
+      "expert",
+      "complaint",
+      "consultation",
+      "conduct"
+    ],
+    "text": "Nebula takes the quality and professionalism of our live astrologers and tarot readers very seriously. If you experience poor quality advice, rude behavior, or any violation of our code of conduct during a live consultation, please report it immediately. All expert complaints are escalated to our Trust and Safety team for manual review. We will review the chat logs and take appropriate disciplinary action. Users who receive inappropriate conduct from an expert are eligible for a full session credit refund."
+  },
+  {
+    "id": "KB-007",
+    "title": "Handling Emotional Distress and Sensitive Situations",
+    "tags": [
+      "distress",
+      "emergency",
+      "escalation",
+      "sensitive"
+    ],
+    "text": "Occasionally, users may express severe emotional distress, self-harm intentions, or crisis situations while seeking astrological or tarot guidance. Support agents and automated systems must never provide generic advice or horoscopic interpretations in these scenarios. Instead, these tickets must be immediately escalated to a human Trust and Safety specialist. Automated responses must be bypassed entirely. Our human agents will provide standardized, empathetic responses containing contact information for local emergency services and mental health hotlines in the user's region."
+  }
+]
