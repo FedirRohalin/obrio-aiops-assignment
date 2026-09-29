@@ -16,7 +16,7 @@ class TicketGenerator:
 
         if output.citation is not None:
             article = next(
-                (a for a in articles if a.article_id == output.citation.article_id),
+                (a for a in articles if a.id == output.citation.article_id),
                 None,
             )
             if article is None:
