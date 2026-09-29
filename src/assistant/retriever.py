@@ -26,7 +26,7 @@ class TicketRetriever:
 
     def __init__(self, kb: KnowledgeBase) -> None:
         # Зберігаємо список статей з бази знань
-        self._articles: list[Article] = list(kb.articles)
+        self._articles: list[Article] = kb.get_all_articles()
 
         # Попередньо обчислюємо множини токенів тегів для кожної статті
         self._tag_tokens: list[set[str]] = [
