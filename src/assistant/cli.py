@@ -3,10 +3,10 @@ import logging
 import sys
 
 from src.assistant.config import get_settings
-from src.assistant.kb import KnowledgeBase
-from src.assistant.retriever import TicketRetriever
-from src.assistant.llm_client import LLMClient
 from src.assistant.generator import TicketGenerator
+from src.assistant.kb import KnowledgeBase
+from src.assistant.llm_client import LLMClient
+from src.assistant.retriever import TicketRetriever
 
 logger = logging.getLogger(__name__)
 
