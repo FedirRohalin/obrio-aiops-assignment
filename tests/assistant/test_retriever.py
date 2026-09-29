@@ -57,7 +57,9 @@ def mock_kb(articles: list[Article]) -> MagicMock:
     kb.__iter__.side_effect = lambda: iter(articles)
     kb.__len__.return_value = len(articles)
     kb.articles = articles
-    kb.get_all.return_value = articles
+
+    kb.get_all_articles.return_value = articles
+
     kb.load.return_value = None
     return kb
 
